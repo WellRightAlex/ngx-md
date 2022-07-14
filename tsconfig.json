@@ -13,7 +13,6 @@
     "sourceMap": true,
     "paths": {
       "ngx-md": [
-        "dist/ngx-md",
         "dist/ngx-md"
       ]
     },
