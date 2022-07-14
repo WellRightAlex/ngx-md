@@ -1,5 +1,5 @@
 {
-  "name": "ngx-md",
+  "name": "@wellrightalex/ngx-md",
   "version": "13.0.0",
   "author": {
     "name": "Dimpu Aravind Buddha",
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dimpu/ngx-md"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/WellRightAlex"
   },
   "bugs": {
     "url": "https://github.com/dimpu/ngx-md/issues",
