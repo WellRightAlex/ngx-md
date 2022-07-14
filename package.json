@@ -40,7 +40,7 @@
     "lib.lint": "ng lint ngx-md",
     "lib.pretty": "prettier --config ./.prettierrc --write ./libs/ngx-md/src/**/*.ts",
     "lib.prettier.watch": "onchange 'projects/ngx-md/src**/*.ts' -- prettier --write {{changed}}",
-    "release": "npm run lib.build && node ./scripts/pre-publish-hook.js && cd dist/ngx-md && npm publish && cd ...",
+    "release": "npm run lib.build && node ./scripts/pre-publish-hook.js && cd dist/ngx-md && npm publish",
     "ci.travis.lib": "yarn lib.build",
     "ci.travis.demo": "yarn demo.build"
   },
