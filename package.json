@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dimpu/ngx-md"
+    "url": "https://github.com/wellrightalex/ngx-md"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/WellRightAlex"
   },
   "bugs": {
-    "url": "https://github.com/dimpu/ngx-md/issues",
+    "url": "https://github.com/wellrightalex/ngx-md/issues",
     "email": "buddhaaravind@gmail.com"
   },
-  "homepage": "https://github.com/dimpu/ngx-md",
+  "homepage": "https://github.com/wellrightalex/ngx-md",
   "keywords": [
     "angular",
     "markdown",
